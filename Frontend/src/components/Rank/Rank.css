@@ -1,0 +1,17 @@
+.facultymain {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	text-decoration: underline;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.faculty {
+	padding-right: 100px;
+}
+.p_div {
+font-family: Georgia;
+}
+.title {
+	padding-top: 20px;
+}

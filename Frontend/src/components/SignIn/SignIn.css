@@ -1,0 +1,16 @@
+.maindiv {
+	background-color: #D6D6D6;
+	margin-top: 150px;
+}
+.register:hover {
+	color: black;
+}
+.heading {
+	margin-top: 100px;
+}
+.container{
+	display:flex;
+	flex-direction: row;
+	margin-top: 100px;
+	justify-content: space-around;
+}
